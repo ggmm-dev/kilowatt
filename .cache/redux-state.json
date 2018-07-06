@@ -1,28 +1,18 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "857ebd688251fd2c45c7270be668cfb4",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +24,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +41,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "6ebc38639cf8f6fdfc3f971f7b95be6f",
+        "contentDigest": "087af74ff34eb9f6e869265b33a7855e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -69,7 +59,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -90,13 +80,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fe638dbdce726186c152abadd6186760",
+        "contentDigest": "bd3e347c71785ef01425056bf8d2af56",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -108,7 +98,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -129,13 +119,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fc78869070d80f8bd62e3627e375d738",
+        "contentDigest": "90456b28717048885702d583490077db",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -148,7 +138,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -165,13 +155,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9339cd3d4d50e0cdda0147d302f967e1",
+        "contentDigest": "fa923d9bb9306c64f1ec7cfd1b714330",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -183,7 +173,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -200,13 +190,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "50d8648e13541892d141f956df1979f5",
+        "contentDigest": "48c9c109182db3ac52e4866a9f92d4e9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -219,7 +209,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -236,13 +226,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9c813ae06096900c0330b44960482612",
+        "contentDigest": "2205dc6766aecc3853c05e2dc815cc1e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "2.0.10",
@@ -254,7 +244,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -313,13 +303,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d36a1134ca76134b0ce715af39896e4c",
+        "contentDigest": "2b66dc1ad33e9db3b4bc747607abf063",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-sass": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-sass",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-plugin-sass",
       "id": "Plugin gatsby-plugin-sass",
       "name": "gatsby-plugin-sass",
       "version": "1.0.26",
@@ -331,7 +321,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-sass",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-plugin-sass",
       "packageJson": {
         "name": "gatsby-plugin-sass",
         "description": "Gatsby plugin to handle scss/sass files",
@@ -396,13 +386,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "739d49c3821502da039c0cc8aa97cb92",
+        "contentDigest": "5ff208c2e9ce6da4e6280ee3d2088304",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-next": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-next",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-plugin-react-next",
       "id": "Plugin gatsby-plugin-react-next",
       "name": "gatsby-plugin-react-next",
       "version": "1.0.11",
@@ -414,7 +404,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-next",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-plugin-react-next",
       "packageJson": {
         "name": "gatsby-plugin-react-next",
         "description": "Use React 16 with your Gatsby v1 site",
@@ -469,19 +459,19 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "90760e9a5e3c2f5924987acf96bb7d75",
+        "contentDigest": "92498ae8574b5b73676c757d7873491e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-filesystem": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-source-filesystem",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-source-filesystem",
       "id": "Plugin gatsby-source-filesystem",
       "name": "gatsby-source-filesystem",
       "version": "1.5.39",
       "pluginOptions": {
         "plugins": [],
-        "path": "C:\\Users\\Tyler\\Documents\\Websites\\gatsby-basic/src/img",
+        "path": "C:\\Users\\Tyler\\Documents\\Websites\\kilowatt/src/img",
         "name": "images"
       },
       "nodeAPIs": [
@@ -490,7 +480,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -572,13 +562,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ac136acb6c887d3de9e55356303106d6",
+        "contentDigest": "8e7caa49c5871d423a1ac35bd9f2a418",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-transformer-remark",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.44",
@@ -591,7 +581,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -710,13 +700,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bccda32f85d6a314a2bf11e7e55b3192",
+        "contentDigest": "b34b102afca02181231b8fd230350aa4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic",
+      "resolve": "C:/Users/Tyler/Documents/Websites/kilowatt",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "22b4bcb55aff811eb7921d779838f76d",
@@ -729,7 +719,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic",
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/kilowatt",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -818,7 +808,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0447d5cd187ccba0eed93d79c3deb86e",
+        "contentDigest": "f3a4905a9d727cb80032f18a33b3ed19",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -827,32 +817,30 @@
       "siteMetadata": {
         "title": "GGMM Internal Portal"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-06T17:51:42.875Z",
+      "buildTime": "2018-07-06T18:56:09.977Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ab662e0a8516ee71098dfa4478d5e175",
+        "contentDigest": "01ed396651dfbe4da8b545389634c8fe",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cfd97c08a5efef6aa0900a81a12caa4b",
+        "contentDigest": "a93bfe378f8181d1111fc1685c23ed0b",
         "type": "Directory",
         "description": "Directory \"src\\pages\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
       "relativePath": "",
       "extension": "",
       "size": 0,
@@ -862,7 +850,7 @@
       "changeTime": "2018-07-03T15:13:30.707Z",
       "birthTime": "2018-06-28T16:47:49.309Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src",
       "base": "pages",
       "ext": "",
       "name": "pages",
@@ -883,18 +871,18 @@
       "ctime": "2018-07-03T15:13:30.707Z",
       "birthtime": "2018-06-28T16:47:49.309Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "49bd117e8241f99831623c34a02deffe",
+        "contentDigest": "314f55be56a8d020b94dcd47b83641f6",
         "type": "Directory",
         "description": "Directory \"src\\pages\\docs\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs",
       "relativePath": "docs",
       "extension": "",
       "size": 0,
@@ -904,7 +892,7 @@
       "changeTime": "2018-06-28T20:27:24.423Z",
       "birthTime": "2018-06-28T19:10:01.765Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
       "base": "docs",
       "ext": "",
       "name": "docs",
@@ -925,94 +913,8 @@
       "ctime": "2018-06-28T20:27:24.423Z",
       "birthtime": "2018-06-28T19:10:01.765Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "65940a2ce202aa886aaeeaf8483d81bd",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src\\pages\\checklist.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js",
-      "relativePath": "checklist.js",
-      "extension": "js",
-      "size": 218,
-      "prettySize": "218 B",
-      "modifiedTime": "2018-07-03T15:10:35.334Z",
-      "accessTime": "2018-06-29T14:52:36.143Z",
-      "changeTime": "2018-07-03T15:13:30.709Z",
-      "birthTime": "2018-06-29T14:52:36.143Z",
-      "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
-      "base": "checklist.js",
-      "ext": ".js",
-      "name": "checklist",
-      "relativeDirectory": "",
-      "dev": 1689798986,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 4503599627470038,
-      "atimeMs": 1530283956143.1714,
-      "mtimeMs": 1530630635333.9924,
-      "ctimeMs": 1530630810708.8245,
-      "birthtimeMs": 1530283956143.1714,
-      "atime": "2018-06-29T14:52:36.143Z",
-      "mtime": "2018-07-03T15:10:35.334Z",
-      "ctime": "2018-07-03T15:13:30.709Z",
-      "birthtime": "2018-06-29T14:52:36.143Z"
-    },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8830d87f9aed773eee08e1af868a12e0",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src\\pages\\deployment.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js",
-      "relativePath": "deployment.js",
-      "extension": "js",
-      "size": 177,
-      "prettySize": "177 B",
-      "modifiedTime": "2018-06-29T14:50:55.046Z",
-      "accessTime": "2018-06-29T14:50:44.110Z",
-      "changeTime": "2018-06-29T14:50:55.046Z",
-      "birthTime": "2018-06-29T14:50:44.110Z",
-      "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
-      "base": "deployment.js",
-      "ext": ".js",
-      "name": "deployment",
-      "relativeDirectory": "",
-      "dev": 1689798986,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 4785074604180515,
-      "atimeMs": 1530283844110.007,
-      "mtimeMs": 1530283855046.395,
-      "ctimeMs": 1530283855046.395,
-      "birthtimeMs": 1530283844110.007,
-      "atime": "2018-06-29T14:50:44.110Z",
-      "mtime": "2018-06-29T14:50:55.046Z",
-      "ctime": "2018-06-29T14:50:55.046Z",
-      "birthtime": "2018-06-29T14:50:44.110Z"
-    },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/404.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/404.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1023,7 +925,7 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/404.js",
       "relativePath": "404.js",
       "extension": "js",
       "size": 208,
@@ -1033,7 +935,7 @@
       "changeTime": "2018-06-28T17:01:19.721Z",
       "birthTime": "2018-06-28T16:47:49.309Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
       "base": "404.js",
       "ext": ".js",
       "name": "404",
@@ -1054,8 +956,94 @@
       "ctime": "2018-06-28T17:01:19.721Z",
       "birthtime": "2018-06-28T16:47:49.309Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/checklist.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/checklist.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "65940a2ce202aa886aaeeaf8483d81bd",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\checklist.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/checklist.js",
+      "relativePath": "checklist.js",
+      "extension": "js",
+      "size": 218,
+      "prettySize": "218 B",
+      "modifiedTime": "2018-07-03T15:10:35.334Z",
+      "accessTime": "2018-06-29T14:52:36.143Z",
+      "changeTime": "2018-07-03T15:13:30.709Z",
+      "birthTime": "2018-06-29T14:52:36.143Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
+      "base": "checklist.js",
+      "ext": ".js",
+      "name": "checklist",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4503599627470038,
+      "atimeMs": 1530283956143.1714,
+      "mtimeMs": 1530630635333.9924,
+      "ctimeMs": 1530630810708.8245,
+      "birthtimeMs": 1530283956143.1714,
+      "atime": "2018-06-29T14:52:36.143Z",
+      "mtime": "2018-07-03T15:10:35.334Z",
+      "ctime": "2018-07-03T15:13:30.709Z",
+      "birthtime": "2018-06-29T14:52:36.143Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/deployment.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/deployment.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8830d87f9aed773eee08e1af868a12e0",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\deployment.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/deployment.js",
+      "relativePath": "deployment.js",
+      "extension": "js",
+      "size": 177,
+      "prettySize": "177 B",
+      "modifiedTime": "2018-06-29T14:50:55.046Z",
+      "accessTime": "2018-06-29T14:50:44.110Z",
+      "changeTime": "2018-06-29T14:50:55.046Z",
+      "birthTime": "2018-06-29T14:50:44.110Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
+      "base": "deployment.js",
+      "ext": ".js",
+      "name": "deployment",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604180515,
+      "atimeMs": 1530283844110.007,
+      "mtimeMs": 1530283855046.395,
+      "ctimeMs": 1530283855046.395,
+      "birthtimeMs": 1530283844110.007,
+      "atime": "2018-06-29T14:50:44.110Z",
+      "mtime": "2018-06-29T14:50:55.046Z",
+      "ctime": "2018-06-29T14:50:55.046Z",
+      "birthtime": "2018-06-29T14:50:44.110Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/gatsby-docs.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/gatsby-docs.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1066,7 +1054,7 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/gatsby-docs.js",
       "relativePath": "gatsby-docs.js",
       "extension": "js",
       "size": 215,
@@ -1076,7 +1064,7 @@
       "changeTime": "2018-06-29T14:41:50.853Z",
       "birthTime": "2018-06-28T16:47:49.309Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
       "base": "gatsby-docs.js",
       "ext": ".js",
       "name": "gatsby-docs",
@@ -1097,8 +1085,8 @@
       "ctime": "2018-06-29T14:41:50.853Z",
       "birthtime": "2018-06-28T16:47:49.309Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/header.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/header.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1109,7 +1097,7 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/header.js",
       "relativePath": "header.js",
       "extension": "js",
       "size": 280,
@@ -1119,7 +1107,7 @@
       "changeTime": "2018-06-29T14:31:28.610Z",
       "birthTime": "2018-06-29T14:31:03.741Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
       "base": "header.js",
       "ext": ".js",
       "name": "header",
@@ -1140,94 +1128,8 @@
       "ctime": "2018-06-29T14:31:28.610Z",
       "birthtime": "2018-06-29T14:31:03.741Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e16014916d272b9409586bc264945910",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src\\pages\\react.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js",
-      "relativePath": "react.js",
-      "extension": "js",
-      "size": 170,
-      "prettySize": "170 B",
-      "modifiedTime": "2018-06-29T14:48:48.601Z",
-      "accessTime": "2018-06-29T14:48:37.119Z",
-      "changeTime": "2018-06-29T14:48:48.601Z",
-      "birthTime": "2018-06-29T14:48:37.119Z",
-      "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
-      "base": "react.js",
-      "ext": ".js",
-      "name": "react",
-      "relativeDirectory": "",
-      "dev": 1689798986,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 16044073672806844,
-      "atimeMs": 1530283717118.509,
-      "mtimeMs": 1530283728600.5403,
-      "ctimeMs": 1530283728600.5403,
-      "birthtimeMs": 1530283717118.509,
-      "atime": "2018-06-29T14:48:37.119Z",
-      "mtime": "2018-06-29T14:48:48.601Z",
-      "ctime": "2018-06-29T14:48:48.601Z",
-      "birthtime": "2018-06-29T14:48:37.119Z"
-    },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "89cc7e9b2d40b95537b230138427c9aa",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src\\pages\\process.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js",
-      "relativePath": "process.js",
-      "extension": "js",
-      "size": 199,
-      "prettySize": "199 B",
-      "modifiedTime": "2018-07-05T14:35:33.336Z",
-      "accessTime": "2018-06-29T14:30:52.999Z",
-      "changeTime": "2018-07-05T14:35:33.336Z",
-      "birthTime": "2018-06-29T14:30:52.999Z",
-      "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
-      "base": "process.js",
-      "ext": ".js",
-      "name": "process",
-      "relativeDirectory": "",
-      "dev": 1689798986,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 5066549581587040,
-      "atimeMs": 1530282652999.4536,
-      "mtimeMs": 1530801333335.572,
-      "ctimeMs": 1530801333335.572,
-      "birthtimeMs": 1530282652999.4536,
-      "atime": "2018-06-29T14:30:52.999Z",
-      "mtime": "2018-07-05T14:35:33.336Z",
-      "ctime": "2018-07-05T14:35:33.336Z",
-      "birthtime": "2018-06-29T14:30:52.999Z"
-    },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/index.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/index.js absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1238,7 +1140,7 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
       "size": 1973,
@@ -1248,7 +1150,7 @@
       "changeTime": "2018-06-28T21:10:07.230Z",
       "birthTime": "2018-06-28T16:47:49.309Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
       "base": "index.js",
       "ext": ".js",
       "name": "index",
@@ -1269,10 +1171,96 @@
       "ctime": "2018-06-28T21:10:07.230Z",
       "birthtime": "2018-06-28T16:47:49.309Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/react.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/react.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e16014916d272b9409586bc264945910",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\react.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/react.js",
+      "relativePath": "react.js",
+      "extension": "js",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-06-29T14:48:48.601Z",
+      "accessTime": "2018-06-29T14:48:37.119Z",
+      "changeTime": "2018-06-29T14:48:48.601Z",
+      "birthTime": "2018-06-29T14:48:37.119Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
+      "base": "react.js",
+      "ext": ".js",
+      "name": "react",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 16044073672806844,
+      "atimeMs": 1530283717118.509,
+      "mtimeMs": 1530283728600.5403,
+      "ctimeMs": 1530283728600.5403,
+      "birthtimeMs": 1530283717118.509,
+      "atime": "2018-06-29T14:48:37.119Z",
+      "mtime": "2018-06-29T14:48:48.601Z",
+      "ctime": "2018-06-29T14:48:48.601Z",
+      "birthtime": "2018-06-29T14:48:37.119Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/process.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/process.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "89cc7e9b2d40b95537b230138427c9aa",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\process.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/process.js",
+      "relativePath": "process.js",
+      "extension": "js",
+      "size": 199,
+      "prettySize": "199 B",
+      "modifiedTime": "2018-07-05T14:35:33.336Z",
+      "accessTime": "2018-06-29T14:30:52.999Z",
+      "changeTime": "2018-07-05T14:35:33.336Z",
+      "birthTime": "2018-06-29T14:30:52.999Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages",
+      "base": "process.js",
+      "ext": ".js",
+      "name": "process",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5066549581587040,
+      "atimeMs": 1530282652999.4536,
+      "mtimeMs": 1530801333335.572,
+      "ctimeMs": 1530801333335.572,
+      "birthtimeMs": 1530282652999.4536,
+      "atime": "2018-06-29T14:30:52.999Z",
+      "mtime": "2018-07-05T14:35:33.336Z",
+      "ctime": "2018-07-05T14:35:33.336Z",
+      "birthtime": "2018-06-29T14:30:52.999Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
       "children": [
-        "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark"
+        "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark"
       ],
       "parent": "___SOURCE___",
       "internal": {
@@ -1283,7 +1271,7 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md",
       "relativePath": "docs/2018-06-28-this-is-the-title.md",
       "extension": "md",
       "size": 170,
@@ -1293,7 +1281,7 @@
       "changeTime": "2018-06-28T20:27:24.392Z",
       "birthTime": "2018-06-28T19:10:01.776Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs",
       "base": "2018-06-28-this-is-the-title.md",
       "ext": ".md",
       "name": "2018-06-28-this-is-the-title",
@@ -1314,14 +1302,14 @@
       "ctime": "2018-06-28T20:27:24.392Z",
       "birthtime": "2018-06-28T19:10:01.776Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark",
       "children": [],
-      "parent": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
+      "parent": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
       "internal": {
         "content": "---\r\ntemplateKey: blog-post\r\ntitle: This is the title\r\ndate: '2018-06-28T14:08:20-05:00'\r\ndescription: This is the descripton\r\ntags:\r\n  - test\r\n---\r\nHere's some content\r\n",
         "type": "MarkdownRemark",
-        "contentDigest": "98a6f7c04d29c5bf00b8c48019007d6e",
+        "contentDigest": "0ed1d02e6106c976c306a921adcb2f0f",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -1335,28 +1323,28 @@
         "tags": [
           "test"
         ],
-        "_PARENT": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
-        "parent": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file"
+        "_PARENT": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
+        "parent": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file"
       },
       "excerpt": "",
       "rawMarkdownBody": "Here's some content\r\n",
-      "fileAbsolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md",
+      "fileAbsolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md",
       "fields": {
         "slug": "/docs/2018-06-28-this-is-the-title/"
       }
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/img absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/img absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b48a0c28a206732d3ef6b43dd05a1684",
+        "contentDigest": "dab0a44331301ee676f97cb329ce5ca2",
         "type": "Directory",
         "description": "Directory \"src\\img\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/img",
       "relativePath": "",
       "extension": "",
       "size": 0,
@@ -1366,7 +1354,7 @@
       "changeTime": "2018-06-28T16:50:12.319Z",
       "birthTime": "2018-06-28T16:50:08.549Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src",
       "base": "img",
       "ext": "",
       "name": "img",
@@ -1387,8 +1375,8 @@
       "ctime": "2018-06-28T16:50:12.319Z",
       "birthtime": "2018-06-28T16:50:08.549Z"
     },
-    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img/logo.svg absPath of file": {
-      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img/logo.svg absPath of file",
+    "C:/Users/Tyler/Documents/Websites/kilowatt/src/img/logo.svg absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/img/logo.svg absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
@@ -1399,7 +1387,7 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img/logo.svg",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/img/logo.svg",
       "relativePath": "logo.svg",
       "extension": "svg",
       "size": 1023,
@@ -1409,7 +1397,7 @@
       "changeTime": "2018-06-28T16:42:19.499Z",
       "birthTime": "2018-06-28T16:50:12.319Z",
       "root": "C:/",
-      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img",
+      "dir": "C:/Users/Tyler/Documents/Websites/kilowatt/src/img",
       "base": "logo.svg",
       "ext": ".svg",
       "name": "logo",
@@ -1435,20 +1423,20 @@
       "jsonName": "docs-2018-06-28-this-is-the-title.json",
       "internalComponentName": "ComponentDocs20180628ThisIsTheTitle",
       "path": "/docs/2018-06-28-this-is-the-title/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/templates/blog-post.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark"
+        "id": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark"
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/templates/blog-post.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/templates/blog-post.js",
       "id": "SitePage /docs/2018-06-28-this-is-the-title/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "edd69dc2802b1fd42daef5b8307df67e",
+        "contentDigest": "16f08591be2d51cb999da1d8493caa89",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1458,18 +1446,18 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ccea66fb614d1a0656eab1d441c52450",
+        "contentDigest": "86d63551e5a46f1b9212dd4b4c7a0028",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1479,18 +1467,18 @@
       "jsonName": "checklist.json",
       "internalComponentName": "ComponentChecklist",
       "path": "/checklist/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/checklist.js",
       "componentChunkName": "component---src-pages-checklist-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/checklist.js",
       "id": "SitePage /checklist/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f8f59cd27466f19b4fcff093bdfcf67d",
+        "contentDigest": "5b851443bf7027e8d603bfdd03235ada",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1500,18 +1488,18 @@
       "jsonName": "deployment.json",
       "internalComponentName": "ComponentDeployment",
       "path": "/deployment/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/deployment.js",
       "componentChunkName": "component---src-pages-deployment-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/deployment.js",
       "id": "SitePage /deployment/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2b38cd2a987fc1fd27f7fe5553c08d1b",
+        "contentDigest": "3adc4c788a6817778d9c471d9d6ab030",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1521,18 +1509,18 @@
       "jsonName": "gatsby-docs.json",
       "internalComponentName": "ComponentGatsbyDocs",
       "path": "/gatsby-docs/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/gatsby-docs.js",
       "componentChunkName": "component---src-pages-gatsby-docs-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/gatsby-docs.js",
       "id": "SitePage /gatsby-docs/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1ceab4b39ea88cd77ace795ec4edd1ab",
+        "contentDigest": "9c38d7eb46358ec60acbdcce4ba59f59",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1542,18 +1530,18 @@
       "jsonName": "header.json",
       "internalComponentName": "ComponentHeader",
       "path": "/header/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/header.js",
       "componentChunkName": "component---src-pages-header-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/header.js",
       "id": "SitePage /header/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "84e1eff472990e083198685142b89064",
+        "contentDigest": "fe52fff1ad0893f57f6c4d20bb3d0b94",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1563,18 +1551,18 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ae05361b9f37fa886cfbc775d6c5466a",
+        "contentDigest": "8dc8ea5eea4b7f41f4b9eef713b5698a",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1584,18 +1572,18 @@
       "jsonName": "process.json",
       "internalComponentName": "ComponentProcess",
       "path": "/process/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/process.js",
       "componentChunkName": "component---src-pages-process-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/process.js",
       "id": "SitePage /process/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "45a91c003b61f71d5de101c0ddfefb0f",
+        "contentDigest": "42106ef1ac13f4dd03caa0f7c1ab0eed",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1605,18 +1593,18 @@
       "jsonName": "react.json",
       "internalComponentName": "ComponentReact",
       "path": "/react/",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/react.js",
       "componentChunkName": "component---src-pages-react-js",
       "context": {},
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/react.js",
       "id": "SitePage /react/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bdd08a308933d6beca3ca1ee1a70d6fd",
+        "contentDigest": "5b3e653ed2616fa35cb3986ebac28599",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1626,18 +1614,18 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "component": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "423f5bac3d35aa43acff0cd01dd2b42c",
+        "contentDigest": "dac698f9f648af45713968bcc759da08",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -1654,6 +1642,9 @@
       ],
       "Site": [
         "LAYOUT___index"
+      ],
+      "C:/Users/Tyler/Documents/Websites/kilowatt/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark": [
+        "/docs/2018-06-28-this-is-the-title/"
       ]
     },
     "connections": {

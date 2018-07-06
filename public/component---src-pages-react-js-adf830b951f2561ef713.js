@@ -1,2 +1,2 @@
-webpackJsonp([72361451415812],{451:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(3),a=l(n),r=u(65),c=(l(r),function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"React"))});t.default=c,e.exports=t.default}});
+webpackJsonp([72361451415812],{452:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(3),a=l(n),r=u(65),c=(l(r),function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"React"))});t.default=c,e.exports=t.default}});
 //# sourceMappingURL=component---src-pages-react-js-adf830b951f2561ef713.js.map

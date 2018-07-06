@@ -21,6 +21,7 @@ const app = flamelink({
 })
 
 const event = typeof window !== 'undefined' && window
+const isNode = typeof module !== 'undefined'
 
 export default class LaunchChecklist extends Component {
   constructor(props) {
@@ -31,11 +32,13 @@ export default class LaunchChecklist extends Component {
   }
 
   componentWillMount() {
-    if (localStorage.getItem('checklist')) {
-      this.setState({
-        checklist: JSON.parse(localStorage.getItem('checklist')),
-      })
-    } else {
+    if (!isNode) {
+      if (localStorage.getItem('checklist')) {
+        this.setState({
+          checklist: JSON.parse(localStorage.getItem('checklist')),
+        })
+      } else {
+      }
       app.content.get('checklist').then(checklist =>
         this.setState({
           checklist: checklist,
