@@ -1,0 +1,1668 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "857ebd688251fd2c45c7270be668cfb4",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "6ebc38639cf8f6fdfc3f971f7b95be6f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fe638dbdce726186c152abadd6186760",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fc78869070d80f8bd62e3627e375d738",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9339cd3d4d50e0cdda0147d302f967e1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "50d8648e13541892d141f956df1979f5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9c813ae06096900c0330b44960482612",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d36a1134ca76134b0ce715af39896e4c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sass": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-sass",
+      "id": "Plugin gatsby-plugin-sass",
+      "name": "gatsby-plugin-sass",
+      "version": "1.0.26",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-sass",
+      "packageJson": {
+        "name": "gatsby-plugin-sass",
+        "description": "Gatsby plugin to handle scss/sass files",
+        "version": "1.0.26",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "sass",
+          "scss"
+        ],
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "gatsby-1-config-css-modules",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "gatsby-1-config-extract-plugin",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "node-sass",
+            "version": "^4.5.2"
+          },
+          {
+            "name": "sass-loader",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.13.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "739d49c3821502da039c0cc8aa97cb92",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-next": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-next",
+      "id": "Plugin gatsby-plugin-react-next",
+      "name": "gatsby-plugin-react-next",
+      "version": "1.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-plugin-react-next",
+      "packageJson": {
+        "name": "gatsby-plugin-react-next",
+        "description": "Use React 16 with your Gatsby v1 site",
+        "version": "1.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "core-js",
+            "version": "^2.5.1"
+          },
+          {
+            "name": "react",
+            "version": "^16.0.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "90760e9a5e3c2f5924987acf96bb7d75",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\Tyler\\Documents\\Websites\\gatsby-basic/src/img",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ac136acb6c887d3de9e55356303106d6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.44",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.44",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bccda32f85d6a314a2bf11e7e55b3192",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "C:/Users/Tyler/Documents/Websites/gatsby-basic",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "22b4bcb55aff811eb7921d779838f76d",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/Tyler/Documents/Websites/gatsby-basic",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@material-ui/core",
+            "version": "^1.3.0"
+          },
+          {
+            "name": "firebase",
+            "version": "^4.12.1"
+          },
+          {
+            "name": "flamelink",
+            "version": "^0.17.1"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.247"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.45"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.10"
+          },
+          {
+            "name": "gatsby-plugin-react-next",
+            "version": "^1.0.11"
+          },
+          {
+            "name": "gatsby-plugin-sass",
+            "version": "^1.0.26"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.39"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.44"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.6.2"
+          },
+          {
+            "name": "react-bootstrap",
+            "version": "^0.32.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-redux",
+            "version": "^5.0.7"
+          },
+          {
+            "name": "redux",
+            "version": "^4.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.13.6"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0447d5cd187ccba0eed93d79c3deb86e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "GGMM Internal Portal"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-07-06T17:51:42.875Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ab662e0a8516ee71098dfa4478d5e175",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cfd97c08a5efef6aa0900a81a12caa4b",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-07-03T15:13:30.707Z",
+      "accessTime": "2018-07-03T15:13:30.707Z",
+      "changeTime": "2018-07-03T15:13:30.707Z",
+      "birthTime": "2018-06-28T16:47:49.309Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 1689798986,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474978027855,
+      "atimeMs": 1530630810706.8333,
+      "mtimeMs": 1530630810706.8333,
+      "ctimeMs": 1530630810706.8333,
+      "birthtimeMs": 1530204469309.1736,
+      "atime": "2018-07-03T15:13:30.707Z",
+      "mtime": "2018-07-03T15:13:30.707Z",
+      "ctime": "2018-07-03T15:13:30.707Z",
+      "birthtime": "2018-06-28T16:47:49.309Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "49bd117e8241f99831623c34a02deffe",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\docs\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs",
+      "relativePath": "docs",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-06-28T19:10:01.776Z",
+      "accessTime": "2018-06-28T19:10:01.776Z",
+      "changeTime": "2018-06-28T20:27:24.423Z",
+      "birthTime": "2018-06-28T19:10:01.765Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "docs",
+      "ext": "",
+      "name": "docs",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 22799473113647972,
+      "atimeMs": 1530213001776.4224,
+      "mtimeMs": 1530213001776.4224,
+      "ctimeMs": 1530217644422.9421,
+      "birthtimeMs": 1530213001764.9993,
+      "atime": "2018-06-28T19:10:01.776Z",
+      "mtime": "2018-06-28T19:10:01.776Z",
+      "ctime": "2018-06-28T20:27:24.423Z",
+      "birthtime": "2018-06-28T19:10:01.765Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "65940a2ce202aa886aaeeaf8483d81bd",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\checklist.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js",
+      "relativePath": "checklist.js",
+      "extension": "js",
+      "size": 218,
+      "prettySize": "218 B",
+      "modifiedTime": "2018-07-03T15:10:35.334Z",
+      "accessTime": "2018-06-29T14:52:36.143Z",
+      "changeTime": "2018-07-03T15:13:30.709Z",
+      "birthTime": "2018-06-29T14:52:36.143Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "checklist.js",
+      "ext": ".js",
+      "name": "checklist",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4503599627470038,
+      "atimeMs": 1530283956143.1714,
+      "mtimeMs": 1530630635333.9924,
+      "ctimeMs": 1530630810708.8245,
+      "birthtimeMs": 1530283956143.1714,
+      "atime": "2018-06-29T14:52:36.143Z",
+      "mtime": "2018-07-03T15:10:35.334Z",
+      "ctime": "2018-07-03T15:13:30.709Z",
+      "birthtime": "2018-06-29T14:52:36.143Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8830d87f9aed773eee08e1af868a12e0",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\deployment.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js",
+      "relativePath": "deployment.js",
+      "extension": "js",
+      "size": 177,
+      "prettySize": "177 B",
+      "modifiedTime": "2018-06-29T14:50:55.046Z",
+      "accessTime": "2018-06-29T14:50:44.110Z",
+      "changeTime": "2018-06-29T14:50:55.046Z",
+      "birthTime": "2018-06-29T14:50:44.110Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "deployment.js",
+      "ext": ".js",
+      "name": "deployment",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604180515,
+      "atimeMs": 1530283844110.007,
+      "mtimeMs": 1530283855046.395,
+      "ctimeMs": 1530283855046.395,
+      "birthtimeMs": 1530283844110.007,
+      "atime": "2018-06-29T14:50:44.110Z",
+      "mtime": "2018-06-29T14:50:55.046Z",
+      "ctime": "2018-06-29T14:50:55.046Z",
+      "birthtime": "2018-06-29T14:50:44.110Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8857de246387175d85e2e874b3d29120",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 208,
+      "prettySize": "208 B",
+      "modifiedTime": "2018-06-28T16:47:49.309Z",
+      "accessTime": "2018-06-28T16:47:49.309Z",
+      "changeTime": "2018-06-28T17:01:19.721Z",
+      "birthTime": "2018-06-28T16:47:49.309Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474978027856,
+      "atimeMs": 1530204469309.1736,
+      "mtimeMs": 1530204469309.1736,
+      "ctimeMs": 1530205279720.999,
+      "birthtimeMs": 1530204469309.1736,
+      "atime": "2018-06-28T16:47:49.309Z",
+      "mtime": "2018-06-28T16:47:49.309Z",
+      "ctime": "2018-06-28T17:01:19.721Z",
+      "birthtime": "2018-06-28T16:47:49.309Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c832273a920240133c88c4dc1515cf80",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\gatsby-docs.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js",
+      "relativePath": "gatsby-docs.js",
+      "extension": "js",
+      "size": 215,
+      "prettySize": "215 B",
+      "modifiedTime": "2018-06-29T14:41:50.853Z",
+      "accessTime": "2018-06-28T16:47:49.309Z",
+      "changeTime": "2018-06-29T14:41:50.853Z",
+      "birthTime": "2018-06-28T16:47:49.309Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "gatsby-docs.js",
+      "ext": ".js",
+      "name": "gatsby-docs",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474978027858,
+      "atimeMs": 1530204469309.1736,
+      "mtimeMs": 1530283310852.6028,
+      "ctimeMs": 1530283310852.6028,
+      "birthtimeMs": 1530204469309.1736,
+      "atime": "2018-06-28T16:47:49.309Z",
+      "mtime": "2018-06-29T14:41:50.853Z",
+      "ctime": "2018-06-29T14:41:50.853Z",
+      "birthtime": "2018-06-28T16:47:49.309Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "72051ed570c033fdfaceea2ba1e21766",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\header.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js",
+      "relativePath": "header.js",
+      "extension": "js",
+      "size": 280,
+      "prettySize": "280 B",
+      "modifiedTime": "2018-06-29T14:31:03.754Z",
+      "accessTime": "2018-06-29T14:31:03.741Z",
+      "changeTime": "2018-06-29T14:31:28.610Z",
+      "birthTime": "2018-06-29T14:31:03.741Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "header.js",
+      "ext": ".js",
+      "name": "header",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4785074604876383,
+      "atimeMs": 1530282663740.9648,
+      "mtimeMs": 1530282663753.5205,
+      "ctimeMs": 1530282688609.6099,
+      "birthtimeMs": 1530282663740.9648,
+      "atime": "2018-06-29T14:31:03.741Z",
+      "mtime": "2018-06-29T14:31:03.754Z",
+      "ctime": "2018-06-29T14:31:28.610Z",
+      "birthtime": "2018-06-29T14:31:03.741Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e16014916d272b9409586bc264945910",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\react.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js",
+      "relativePath": "react.js",
+      "extension": "js",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-06-29T14:48:48.601Z",
+      "accessTime": "2018-06-29T14:48:37.119Z",
+      "changeTime": "2018-06-29T14:48:48.601Z",
+      "birthTime": "2018-06-29T14:48:37.119Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "react.js",
+      "ext": ".js",
+      "name": "react",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 16044073672806844,
+      "atimeMs": 1530283717118.509,
+      "mtimeMs": 1530283728600.5403,
+      "ctimeMs": 1530283728600.5403,
+      "birthtimeMs": 1530283717118.509,
+      "atime": "2018-06-29T14:48:37.119Z",
+      "mtime": "2018-06-29T14:48:48.601Z",
+      "ctime": "2018-06-29T14:48:48.601Z",
+      "birthtime": "2018-06-29T14:48:37.119Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "89cc7e9b2d40b95537b230138427c9aa",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\process.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js",
+      "relativePath": "process.js",
+      "extension": "js",
+      "size": 199,
+      "prettySize": "199 B",
+      "modifiedTime": "2018-07-05T14:35:33.336Z",
+      "accessTime": "2018-06-29T14:30:52.999Z",
+      "changeTime": "2018-07-05T14:35:33.336Z",
+      "birthTime": "2018-06-29T14:30:52.999Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "process.js",
+      "ext": ".js",
+      "name": "process",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5066549581587040,
+      "atimeMs": 1530282652999.4536,
+      "mtimeMs": 1530801333335.572,
+      "ctimeMs": 1530801333335.572,
+      "birthtimeMs": 1530282652999.4536,
+      "atime": "2018-06-29T14:30:52.999Z",
+      "mtime": "2018-07-05T14:35:33.336Z",
+      "ctime": "2018-07-05T14:35:33.336Z",
+      "birthtime": "2018-06-29T14:30:52.999Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "967d021a2550736abafe1c0a65ec973a",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1973,
+      "prettySize": "1.97 kB",
+      "modifiedTime": "2018-06-28T21:10:07.230Z",
+      "accessTime": "2018-06-28T16:47:49.309Z",
+      "changeTime": "2018-06-28T21:10:07.230Z",
+      "birthTime": "2018-06-28T16:47:49.309Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474978027857,
+      "atimeMs": 1530204469309.1736,
+      "mtimeMs": 1530220207230.0217,
+      "ctimeMs": 1530220207230.0217,
+      "birthtimeMs": 1530204469309.1736,
+      "atime": "2018-06-28T16:47:49.309Z",
+      "mtime": "2018-06-28T21:10:07.230Z",
+      "ctime": "2018-06-28T21:10:07.230Z",
+      "birthtime": "2018-06-28T16:47:49.309Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
+      "children": [
+        "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "47c234c5a53e28a1d52d3b1dd54110c2",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\pages\\docs\\2018-06-28-this-is-the-title.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md",
+      "relativePath": "docs/2018-06-28-this-is-the-title.md",
+      "extension": "md",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2018-06-28T19:10:01.778Z",
+      "accessTime": "2018-06-28T19:10:01.776Z",
+      "changeTime": "2018-06-28T20:27:24.392Z",
+      "birthTime": "2018-06-28T19:10:01.776Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs",
+      "base": "2018-06-28-this-is-the-title.md",
+      "ext": ".md",
+      "name": "2018-06-28-this-is-the-title",
+      "relativeDirectory": "docs",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 17451448556145510,
+      "atimeMs": 1530213001776.4224,
+      "mtimeMs": 1530213001778.422,
+      "ctimeMs": 1530217644391.9138,
+      "birthtimeMs": 1530213001776.4224,
+      "atime": "2018-06-28T19:10:01.776Z",
+      "mtime": "2018-06-28T19:10:01.778Z",
+      "ctime": "2018-06-28T20:27:24.392Z",
+      "birthtime": "2018-06-28T19:10:01.776Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
+      "internal": {
+        "content": "---\r\ntemplateKey: blog-post\r\ntitle: This is the title\r\ndate: '2018-06-28T14:08:20-05:00'\r\ndescription: This is the descripton\r\ntags:\r\n  - test\r\n---\r\nHere's some content\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "98a6f7c04d29c5bf00b8c48019007d6e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "This is the title",
+        "templateKey": "blog-post",
+        "date": "2018-06-28T14:08:20-05:00",
+        "description": "This is the descripton",
+        "tags": [
+          "test"
+        ],
+        "_PARENT": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file",
+        "parent": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Here's some content\r\n",
+      "fileAbsolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md",
+      "fields": {
+        "slug": "/docs/2018-06-28-this-is-the-title/"
+      }
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "b48a0c28a206732d3ef6b43dd05a1684",
+        "type": "Directory",
+        "description": "Directory \"src\\img\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-06-28T16:50:12.319Z",
+      "accessTime": "2018-06-28T16:50:12.319Z",
+      "changeTime": "2018-06-28T16:50:12.319Z",
+      "birthTime": "2018-06-28T16:50:08.549Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src",
+      "base": "img",
+      "ext": "",
+      "name": "img",
+      "relativeDirectory": "..",
+      "dev": 1689798986,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 4222124651525918,
+      "atimeMs": 1530204612319.2688,
+      "mtimeMs": 1530204612319.2688,
+      "ctimeMs": 1530204612319.2688,
+      "birthtimeMs": 1530204608549.3997,
+      "atime": "2018-06-28T16:50:12.319Z",
+      "mtime": "2018-06-28T16:50:12.319Z",
+      "ctime": "2018-06-28T16:50:12.319Z",
+      "birthtime": "2018-06-28T16:50:08.549Z"
+    },
+    "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img/logo.svg absPath of file": {
+      "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img/logo.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "db02499486d321e9e73d8cd8c1393a41",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "description": "File \"src\\img\\logo.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img/logo.svg",
+      "relativePath": "logo.svg",
+      "extension": "svg",
+      "size": 1023,
+      "prettySize": "1.02 kB",
+      "modifiedTime": "2018-06-28T16:36:16.188Z",
+      "accessTime": "2018-06-28T16:50:12.319Z",
+      "changeTime": "2018-06-28T16:42:19.499Z",
+      "birthTime": "2018-06-28T16:50:12.319Z",
+      "root": "C:/",
+      "dir": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/img",
+      "base": "logo.svg",
+      "ext": ".svg",
+      "name": "logo",
+      "relativeDirectory": "",
+      "dev": 1689798986,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884870399,
+      "atimeMs": 1530204612319.2688,
+      "mtimeMs": 1530203776188.467,
+      "ctimeMs": 1530204139498.8728,
+      "birthtimeMs": 1530204612319.2688,
+      "atime": "2018-06-28T16:50:12.319Z",
+      "mtime": "2018-06-28T16:36:16.188Z",
+      "ctime": "2018-06-28T16:42:19.499Z",
+      "birthtime": "2018-06-28T16:50:12.319Z"
+    },
+    "SitePage /docs/2018-06-28-this-is-the-title/": {
+      "layout": "index",
+      "jsonName": "docs-2018-06-28-this-is-the-title.json",
+      "internalComponentName": "ComponentDocs20180628ThisIsTheTitle",
+      "path": "/docs/2018-06-28-this-is-the-title/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "id": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/templates/blog-post.js",
+      "id": "SitePage /docs/2018-06-28-this-is-the-title/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "edd69dc2802b1fd42daef5b8307df67e",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ccea66fb614d1a0656eab1d441c52450",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /checklist/": {
+      "layout": "index",
+      "jsonName": "checklist.json",
+      "internalComponentName": "ComponentChecklist",
+      "path": "/checklist/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js",
+      "componentChunkName": "component---src-pages-checklist-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/checklist.js",
+      "id": "SitePage /checklist/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f8f59cd27466f19b4fcff093bdfcf67d",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /deployment/": {
+      "layout": "index",
+      "jsonName": "deployment.json",
+      "internalComponentName": "ComponentDeployment",
+      "path": "/deployment/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js",
+      "componentChunkName": "component---src-pages-deployment-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/deployment.js",
+      "id": "SitePage /deployment/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2b38cd2a987fc1fd27f7fe5553c08d1b",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /gatsby-docs/": {
+      "layout": "index",
+      "jsonName": "gatsby-docs.json",
+      "internalComponentName": "ComponentGatsbyDocs",
+      "path": "/gatsby-docs/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js",
+      "componentChunkName": "component---src-pages-gatsby-docs-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/gatsby-docs.js",
+      "id": "SitePage /gatsby-docs/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1ceab4b39ea88cd77ace795ec4edd1ab",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /header/": {
+      "layout": "index",
+      "jsonName": "header.json",
+      "internalComponentName": "ComponentHeader",
+      "path": "/header/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js",
+      "componentChunkName": "component---src-pages-header-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/header.js",
+      "id": "SitePage /header/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "84e1eff472990e083198685142b89064",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ae05361b9f37fa886cfbc775d6c5466a",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /process/": {
+      "layout": "index",
+      "jsonName": "process.json",
+      "internalComponentName": "ComponentProcess",
+      "path": "/process/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js",
+      "componentChunkName": "component---src-pages-process-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/process.js",
+      "id": "SitePage /process/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "45a91c003b61f71d5de101c0ddfefb0f",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /react/": {
+      "layout": "index",
+      "jsonName": "react.json",
+      "internalComponentName": "ComponentReact",
+      "path": "/react/",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js",
+      "componentChunkName": "component---src-pages-react-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/react.js",
+      "id": "SitePage /react/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bdd08a308933d6beca3ca1ee1a70d6fd",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "423f5bac3d35aa43acff0cd01dd2b42c",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "97489a42132bfdf32bcb5b9932355671"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "C:/Users/Tyler/Documents/Websites/gatsby-basic/src/pages/docs/2018-06-28-this-is-the-title.md absPath of file >>> MarkdownRemark": [
+        "/docs/2018-06-28-this-is-the-title/"
+      ],
+      "Site": [
+        "LAYOUT___index"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
